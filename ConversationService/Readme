@@ -1,0 +1,1 @@
+This folder contains the json file to be used while linking the watson conversation service with the app for the chatBot. To test it yourself, login into your bluemix account and upload this in your workspace.
