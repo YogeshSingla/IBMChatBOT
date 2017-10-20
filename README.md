@@ -7,7 +7,7 @@
 
 ***
 
-## DIY
+## Guide
 
 1. Create an account on [IBM Bluemix](https://www.ibm.com/cloud-computing/bluemix/).
 2. Login and head to Conversation-service under Watson from top left menu.
